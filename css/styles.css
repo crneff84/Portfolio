@@ -6,6 +6,7 @@ img {
 
 ol li {
   font-family: fantasy;
+  text-decoration: underline;
   font-size: 14pt;
   color: #337ab7
 }
@@ -28,15 +29,20 @@ h2 {
 
 body {
   background-color: #FF8C00;
-  margin-top: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  height: 100%;
 }
 
 .box {
   padding-top: 60px;
 }
 
-li {
-  list-style: disc;
+ul li {
+  list-style: circle;
+  color: #337ab7;
+  font-size: 14pt;
 }
 
 ul.nav > li > a:hover {
@@ -44,4 +50,23 @@ ul.nav > li > a:hover {
 	color: #337ab7;
 	border: solid 1px;
   border-color: #fff;
+}
+
+#projects {
+  border-style: solid 2px;
+  padding: 5px;
+  background-color: #fff;
+}
+
+#aboutme {
+  border-style: solid 2px;
+  padding: 5px;
+  background-color: #fff;
+  margin-top: 25px;
+}
+
+.panel {
+  margin-top: 25px;
+  border-radius: 0px;
+  text-align: center;
 }
