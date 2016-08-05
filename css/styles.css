@@ -1,0 +1,20 @@
+img {
+  width: 60%;
+  height: 60%;
+  margin-bottom: 5px;
+}
+
+.pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-decoration: underline;
+  color: #337ab7
+}
+
+body{
+  background-color: #FF8C00
+}
