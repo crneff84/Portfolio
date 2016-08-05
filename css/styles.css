@@ -108,3 +108,7 @@ ul.nav > li > a:hover {
 .important {
   font-weight: bold;
 }
+
+.copyright {
+  float: right;
+}
