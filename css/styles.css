@@ -4,6 +4,17 @@ img {
   margin-bottom: 5px;
 }
 
+ol li {
+  font-family: fantasy;
+  font-size: 14pt;
+  color: #337ab7
+}
+
+ol p {
+  font-size: 14pt;
+  color: #337ab7
+}
+
 .pic {
   display: block;
   margin-left: auto;
@@ -15,6 +26,22 @@ h2 {
   color: #337ab7
 }
 
-body{
-  background-color: #FF8C00
+body {
+  background-color: #FF8C00;
+  margin-top: 5px;
+}
+
+.box {
+  padding-top: 60px;
+}
+
+li {
+  list-style: disc;
+}
+
+ul.nav > li > a:hover {
+	background-color: #fff;
+	color: #337ab7;
+	border: solid 1px;
+  border-color: #fff;
 }
