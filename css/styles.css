@@ -4,6 +4,13 @@ img {
   margin-bottom: 5px;
 }
 
+ol a {
+  font-family: fantasy;
+  text-decoration: underline;
+  font-size: 14pt;
+  color: #337ab7
+}
+
 ol li {
   font-family: fantasy;
   text-decoration: underline;
@@ -11,9 +18,9 @@ ol li {
   color: #337ab7
 }
 
-ol p {
-  font-size: 14pt;
-  color: #337ab7
+ul p {
+  font-size: 12pt;
+  color: black;
 }
 
 .pic {
@@ -24,7 +31,11 @@ ol p {
 
 h2 {
   text-decoration: underline;
-  color: #337ab7
+  color: #black;
+}
+
+h3 {
+  color: #black;
 }
 
 body {
@@ -43,6 +54,13 @@ ul li {
   list-style: circle;
   color: #337ab7;
   font-size: 14pt;
+}
+
+ul a {
+  list-style: circle;
+  color: #337ab7;
+  font-size: 14pt;
+  text-decoration: underline;
 }
 
 ul.nav > li > a:hover {
@@ -65,8 +83,20 @@ ul.nav > li > a:hover {
   margin-top: 25px;
 }
 
+#aboutme p {
+  font-size: 12pt;
+}
+
+#aboutme h3 {
+  text-decoration: underline;
+}
+
 .panel {
   margin-top: 25px;
   border-radius: 0px;
   text-align: center;
+}
+
+.panel-body {
+  text-decoration: underline;
 }
