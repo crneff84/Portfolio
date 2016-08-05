@@ -10,15 +10,15 @@ _This is a portfolio website for Chance Neff. This website includes a list of Ch
 
 ## Setup/Installation Requirements
 
-* _This website is best viewed in Google Chrome browser_
+* _This website is best viewed in Google Chrome browser. The website can be viewed at https://crneff84.github.io/Portfolio/._
 
 ## Known Bugs
 
-_There are no known bugs in this program_
+_There are no known bugs in this program._
 
 ## Support and contact details
 
-_If you encounter issues, please contact me at crneff84@gmail.com_
+_If you encounter issues, please contact me at crneff84@gmail.com._
 
 ## Technologies Used
 
