@@ -100,3 +100,7 @@ ul.nav > li > a:hover {
 .panel-body {
   text-decoration: underline;
 }
+
+.important {
+  font-weight: bold;
+}
